@@ -1,11 +1,11 @@
 {
   "name": "portfolio",
   "version": "0.0.1",
-  "description": "",
+  "description": "Welcome to my Portfolio",
   "main": "index.js",
   "authors": {
-    "name": "",
-    "email": ""
+    "name": "Anthwam",
+    "email": "anthwam13@outlook.com"
   },
   "repository": "/portfolio",
   "scripts": {
